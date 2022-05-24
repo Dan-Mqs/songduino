@@ -9,3 +9,6 @@
 - Resistores 220 ohms
 - Botões Push Button
 - Módulo Buzzer Passivo
+
+
+Vídeo do circuito em funcionamento: https://youtu.be/JjqVAfV9GmU
